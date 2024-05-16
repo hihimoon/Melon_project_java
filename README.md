@@ -28,6 +28,20 @@
 
 <br>
 
+
+![image](https://github.com/hihimoon/Melon_project_java/assets/52193200/80581f9a-4d11-442b-892a-23d610d8c376)
+![image](https://github.com/hihimoon/Melon_project_java/assets/52193200/6a227815-2d75-4f47-a6bb-7dfb18b60045)
+![image](https://github.com/hihimoon/Melon_project_java/assets/52193200/c0c30539-bd18-4122-85aa-dd852228e952)
+![image](https://github.com/hihimoon/Melon_project_java/assets/52193200/5897b624-9285-4695-8348-bf49ae6402ea)
+![image](https://github.com/hihimoon/Melon_project_java/assets/52193200/6f7d28f9-1cc6-454b-bcbb-169311bcabb2)
+![image](https://github.com/hihimoon/Melon_project_java/assets/52193200/e68cdf07-11d7-4672-960e-c4b5b4ff2e78)
+![image](https://github.com/hihimoon/Melon_project_java/assets/52193200/196e2978-8687-4121-a048-8629216d5323)
+
+
+
+
+
+
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
